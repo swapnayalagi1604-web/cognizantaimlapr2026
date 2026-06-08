@@ -10,3 +10,4 @@ day10env
 prodenv
 devenv
 .env
+node_modules

@@ -1,0 +1,101 @@
+CustomerID,UsageFrequency,SupportTickets,DaysSinceLogin,ContactType,CurrentPlan,PlanDowngradeHistory
+1,28,8,0,No Contact,Premium,Yes
+2,30,6,45,Phone,Basic,No
+3,3,5,41,Chat,Standard,Yes
+4,2,9,35,Phone,Enterprise,Yes
+5,30,2,24,Phone,Standard,No
+6,18,3,28,Phone,Enterprise,No
+7,22,1,49,Phone,Standard,No
+8,5,8,31,Chat,Basic,Yes
+9,2,9,23,Email,Basic,Yes
+10,4,9,31,No Contact,Premium,Yes
+11,12,3,32,No Contact,Enterprise,Yes
+12,22,3,11,Chat,Enterprise,No
+13,7,4,9,Chat,Enterprise,No
+14,1,9,53,Chat,Standard,Yes
+15,3,0,59,Chat,Enterprise,Yes
+16,2,8,30,Chat,Standard,Yes
+17,5,2,42,Phone,Basic,Yes
+18,9,1,32,Phone,Basic,No
+19,23,2,49,Email,Enterprise,Yes
+20,28,3,13,Email,Premium,No
+21,5,11,35,Email,Standard,Yes
+22,13,11,6,Phone,Standard,No
+23,10,1,54,Email,Standard,Yes
+24,18,4,57,Phone,Enterprise,Yes
+25,26,3,45,Email,Enterprise,Yes
+26,13,1,22,No Contact,Premium,Yes
+27,5,6,53,Chat,Enterprise,Yes
+28,18,9,54,Email,Enterprise,Yes
+29,10,4,39,Phone,Basic,Yes
+30,5,3,25,Chat,Basic,Yes
+31,28,12,16,Email,Enterprise,Yes
+32,28,3,22,Email,Basic,No
+33,14,11,15,Email,Standard,Yes
+34,6,11,30,Chat,Standard,Yes
+35,19,7,38,Email,Enterprise,Yes
+36,24,11,42,No Contact,Enterprise,Yes
+37,4,3,30,Email,Premium,Yes
+38,11,7,4,No Contact,Premium,Yes
+39,10,7,39,Email,Basic,Yes
+40,18,5,43,Email,Premium,Yes
+41,25,12,47,Chat,Premium,Yes
+42,11,4,9,Phone,Premium,Yes
+43,22,4,40,No Contact,Enterprise,Yes
+44,18,7,52,Chat,Basic,Yes
+45,6,2,20,Chat,Standard,No
+46,3,3,17,No Contact,Standard,Yes
+47,9,3,21,Email,Basic,Yes
+48,14,11,26,Phone,Basic,Yes
+49,25,0,59,Phone,Premium,No
+50,26,9,21,No Contact,Basic,Yes
+51,6,2,48,Email,Basic,Yes
+52,26,0,19,Phone,Standard,No
+53,19,6,14,No Contact,Enterprise,Yes
+54,22,9,41,Email,Premium,Yes
+55,10,12,59,No Contact,Basic,Yes
+56,15,10,53,Phone,Basic,Yes
+57,10,1,56,Email,Standard,Yes
+58,24,1,27,Phone,Standard,No
+59,14,12,47,No Contact,Standard,Yes
+60,28,11,17,Chat,Enterprise,No
+61,26,3,40,Chat,Enterprise,No
+62,5,0,35,No Contact,Standard,Yes
+63,20,1,9,Chat,Basic,No
+64,1,4,32,Chat,Basic,Yes
+65,20,3,1,Email,Standard,No
+66,12,6,37,Email,Basic,Yes
+67,25,1,55,Phone,Premium,Yes
+68,26,6,55,Phone,Enterprise,Yes
+69,20,4,48,Email,Standard,Yes
+70,14,11,19,Phone,Enterprise,Yes
+71,25,12,30,Chat,Standard,No
+72,24,12,15,Phone,Standard,No
+73,20,7,18,Phone,Enterprise,No
+74,15,11,30,Chat,Premium,Yes
+75,10,8,27,Email,Standard,Yes
+76,9,10,11,No Contact,Enterprise,Yes
+77,23,9,34,Email,Enterprise,Yes
+78,28,3,32,Chat,Basic,No
+79,16,8,8,Email,Basic,Yes
+80,28,10,11,No Contact,Basic,Yes
+81,25,11,55,Phone,Premium,Yes
+82,10,7,50,Phone,Premium,Yes
+83,9,2,17,Email,Basic,No
+84,8,7,30,Chat,Basic,Yes
+85,13,10,47,Chat,Basic,Yes
+86,9,8,47,Phone,Premium,Yes
+87,3,5,25,No Contact,Basic,Yes
+88,9,4,46,Chat,Premium,Yes
+89,6,10,5,Chat,Enterprise,Yes
+90,22,3,51,Phone,Standard,No
+91,26,12,11,No Contact,Enterprise,Yes
+92,17,12,30,Chat,Premium,Yes
+93,11,7,59,No Contact,Standard,Yes
+94,29,7,21,No Contact,Premium,Yes
+95,27,9,59,Phone,Premium,Yes
+96,17,7,9,No Contact,Enterprise,Yes
+97,18,8,12,Email,Basic,Yes
+98,15,12,19,Chat,Basic,No
+99,27,11,33,Chat,Premium,Yes
+100,10,12,31,Phone,Standard,Yes

@@ -1,0 +1,101 @@
+LeafColor,SpotPattern,Humidity,Temperature,Season,SoilPH,Disease
+Pale Green,White Powdery Spots,78,20.5,Winter,6.2,Powdery Mildew
+Green,None,63,25.4,Summer,6.3,Healthy
+Green,None,62,23.6,Spring,6.4,Healthy
+Pale Green,White Powdery Spots,60,24.3,Spring,6.4,Powdery Mildew
+Dark Green,None,48,22.7,Summer,6.6,Healthy
+Brown,Small Brown Spots,88,28.1,Monsoon,6.8,Leaf Spot
+Pale Green,Yellow Halo Spots,85,29.6,Summer,6.4,Leaf Spot
+Brown,Large Brown Spots,81,35.9,Monsoon,6.4,Blight
+Brown,Yellow Halo Spots,70,27.3,Monsoon,6.5,Leaf Spot
+Brown,Large Brown Spots,89,33.6,Monsoon,5.9,Blight
+Pale Green,Small Brown Spots,86,26.9,Monsoon,6.0,Leaf Spot
+Dark Green,None,57,24.1,Monsoon,7.1,Healthy
+Green,White Powdery Spots,65,19.9,Spring,6.6,Powdery Mildew
+Pale Green,None,86,21.4,Winter,5.5,Root Rot
+Pale Green,Yellow Halo Spots,76,26.0,Monsoon,6.3,Leaf Spot
+Green,None,48,23.2,Monsoon,7.0,Healthy
+Yellow,Yellow Halo Spots,77,29.4,Summer,6.3,Leaf Spot
+Yellow,None,95,27.5,Winter,4.9,Root Rot
+Brown,Small Brown Spots,88,31.9,Summer,6.8,Leaf Spot
+Brown,Black Lesions,92,31.6,Monsoon,5.6,Blight
+Brown,Black Lesions,87,27.2,Summer,6.4,Blight
+Yellow,Large Brown Spots,73,29.2,Monsoon,5.5,Blight
+Pale Green,White Powdery Spots,72,24.9,Winter,7.0,Powdery Mildew
+Yellow,Small Brown Spots,94,28.7,Winter,5.8,Root Rot
+Brown,None,87,24.0,Winter,5.2,Root Rot
+Pale Green,White Powdery Spots,62,20.0,Spring,6.0,Powdery Mildew
+Green,White Powdery Spots,62,18.1,Winter,6.3,Powdery Mildew
+Pale Green,None,94,22.4,Winter,5.0,Root Rot
+Dark Green,None,52,28.3,Spring,6.4,Healthy
+Dark Green,None,56,25.4,Spring,7.1,Healthy
+Green,None,46,25.2,Winter,7.0,Healthy
+Green,None,51,26.3,Monsoon,6.6,Healthy
+Yellow,Small Brown Spots,79,31.3,Monsoon,5.9,Leaf Spot
+Yellow,None,85,21.7,Winter,5.3,Root Rot
+Yellow,None,90,20.0,Winter,5.1,Root Rot
+Yellow,Black Lesions,85,33.3,Summer,5.6,Blight
+Yellow,Small Brown Spots,88,26.8,Monsoon,6.4,Leaf Spot
+Green,White Powdery Spots,60,18.5,Winter,7.3,Powdery Mildew
+Green,None,52,25.2,Monsoon,6.8,Healthy
+Green,None,58,27.3,Winter,7.1,Healthy
+Dark Green,None,52,24.1,Monsoon,6.9,Healthy
+Brown,Small Brown Spots,65,28.1,Monsoon,5.9,Leaf Spot
+Dark Green,None,49,29.5,Summer,7.1,Healthy
+Yellow,Yellow Halo Spots,82,30.3,Monsoon,6.5,Leaf Spot
+Green,White Powdery Spots,58,26.5,Winter,6.4,Powdery Mildew
+Brown,None,86,22.8,Monsoon,5.5,Root Rot
+Dark Green,None,61,25.9,Summer,6.3,Healthy
+Brown,Small Brown Spots,65,27.0,Monsoon,6.4,Leaf Spot
+Pale Green,Yellow Halo Spots,82,30.4,Monsoon,5.9,Leaf Spot
+Brown,None,95,20.4,Winter,5.4,Root Rot
+Green,None,46,24.5,Summer,7.1,Healthy
+Green,None,48,24.8,Spring,7.2,Healthy
+Brown,Large Brown Spots,77,34.9,Monsoon,5.6,Blight
+Pale Green,None,86,21.6,Monsoon,5.2,Root Rot
+Dark Green,None,52,23.6,Spring,6.5,Healthy
+Brown,Large Brown Spots,72,32.9,Summer,5.8,Blight
+Pale Green,Small Brown Spots,94,24.0,Winter,5.7,Root Rot
+Dark Green,None,50,26.6,Winter,6.2,Healthy
+Yellow,White Powdery Spots,78,25.1,Spring,6.9,Powdery Mildew
+Yellow,White Powdery Spots,73,19.7,Winter,7.1,Powdery Mildew
+Green,None,56,25.5,Winter,6.8,Healthy
+Brown,Black Lesions,88,29.8,Summer,5.8,Blight
+Brown,Large Brown Spots,85,33.0,Summer,6.1,Blight
+Brown,Small Brown Spots,90,25.5,Monsoon,5.1,Root Rot
+Dark Green,None,59,25.5,Monsoon,6.7,Healthy
+Brown,Large Brown Spots,81,31.6,Summer,5.5,Blight
+Yellow,Small Brown Spots,85,28.1,Monsoon,4.8,Root Rot
+Brown,Small Brown Spots,79,27.7,Monsoon,6.5,Leaf Spot
+Brown,Small Brown Spots,69,29.9,Monsoon,6.7,Leaf Spot
+Yellow,Small Brown Spots,85,21.8,Winter,4.9,Root Rot
+Yellow,Yellow Halo Spots,69,31.2,Summer,6.8,Leaf Spot
+Brown,Small Brown Spots,95,24.5,Monsoon,5.5,Root Rot
+Yellow,White Powdery Spots,62,25.6,Spring,7.1,Powdery Mildew
+Green,White Powdery Spots,62,20.5,Winter,7.1,Powdery Mildew
+Dark Green,None,55,29.1,Summer,6.3,Healthy
+Green,None,51,22.5,Spring,6.5,Healthy
+Pale Green,White Powdery Spots,61,25.5,Spring,7.4,Powdery Mildew
+Green,White Powdery Spots,55,25.7,Spring,6.7,Powdery Mildew
+Pale Green,Small Brown Spots,91,25.4,Monsoon,5.3,Root Rot
+Brown,Small Brown Spots,77,27.0,Summer,6.5,Leaf Spot
+Yellow,None,90,25.9,Monsoon,4.9,Root Rot
+Brown,Small Brown Spots,66,26.3,Summer,6.0,Leaf Spot
+Brown,Yellow Halo Spots,78,26.3,Monsoon,6.3,Leaf Spot
+Brown,Black Lesions,79,32.9,Monsoon,6.2,Blight
+Yellow,None,82,22.4,Winter,5.5,Root Rot
+Pale Green,White Powdery Spots,69,24.3,Spring,6.3,Powdery Mildew
+Green,White Powdery Spots,77,19.0,Winter,7.4,Powdery Mildew
+Green,None,54,26.6,Spring,6.6,Healthy
+Brown,Large Brown Spots,75,33.3,Summer,6.3,Blight
+Pale Green,White Powdery Spots,73,25.0,Spring,6.8,Powdery Mildew
+Brown,Black Lesions,72,34.6,Summer,5.5,Blight
+Brown,Small Brown Spots,82,24.4,Winter,5.4,Root Rot
+Pale Green,Small Brown Spots,91,28.3,Winter,5.1,Root Rot
+Yellow,Yellow Halo Spots,79,26.2,Summer,6.4,Leaf Spot
+Yellow,Large Brown Spots,87,34.7,Monsoon,5.9,Blight
+Brown,Yellow Halo Spots,73,31.9,Summer,6.4,Leaf Spot
+Pale Green,White Powdery Spots,57,20.2,Spring,6.7,Powdery Mildew
+Yellow,Black Lesions,86,34.1,Monsoon,5.7,Blight
+Yellow,Yellow Halo Spots,86,29.2,Summer,6.4,Leaf Spot
+Pale Green,Yellow Halo Spots,76,30.3,Summer,6.1,Leaf Spot

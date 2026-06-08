@@ -1,0 +1,12 @@
+pyproject.toml
+src/supervised_ml.egg-info/PKG-INFO
+src/supervised_ml.egg-info/SOURCES.txt
+src/supervised_ml.egg-info/dependency_links.txt
+src/supervised_ml.egg-info/requires.txt
+src/supervised_ml.egg-info/top_level.txt
+src/supervisedmlapp/__init__.py
+src/supervisedmlapp/configurations/__init__.py
+src/supervisedmlapp/configurations/conf.py
+src/supervisedmlapp/resources/__init__.py
+src/supervisedmlapp/utils/linear_reg.py
+src/supervisedmlapp/utils/serve_linear_reg.py
