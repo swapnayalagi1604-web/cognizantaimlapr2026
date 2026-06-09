@@ -1,0 +1,101 @@
+Brand,Color,Rate,Size,Fabric,Defects,Stitching,QualityClass
+Levis,Blue,325,L,Polyester,None,Average,Economy
+Nike,Black,566,M,Blend,None,Excellent,Premium
+Levis,Green,789,M,Blend,Major,Good,Premium
+Levis,White,2427,M,Linen,Minor,Excellent,Premium
+Puma,White,547,M,Polyester,Major,Excellent,Premium
+US Polo,Red,881,XL,Blend,Major,Good,Economy
+Puma,Black,1150,XL,Polyester,None,Good,Standard
+US Polo,White,2000,XL,Linen,Minor,Good,Standard
+Nike,Red,1424,L,Blend,None,Poor,Economy
+Levis,Black,1871,S,Blend,Major,Poor,Standard
+Nike,Red,579,XL,Blend,Minor,Excellent,Economy
+Nike,Blue,870,L,Polyester,Minor,Average,Premium
+Adidas,Green,714,XL,Blend,Minor,Average,Economy
+Adidas,Green,1744,XL,Cotton,Minor,Excellent,Premium
+Puma,Green,373,XL,Polyester,None,Good,Premium
+US Polo,Green,412,M,Polyester,Minor,Poor,Standard
+Adidas,Green,1785,M,Linen,None,Poor,Premium
+Puma,Red,2396,S,Linen,None,Excellent,Premium
+Puma,Red,2465,M,Linen,None,Poor,Standard
+Nike,Black,1293,XL,Blend,Minor,Excellent,Economy
+Adidas,Blue,1736,M,Polyester,None,Excellent,Economy
+Nike,Black,2395,XL,Cotton,None,Excellent,Premium
+Puma,White,1622,XL,Polyester,None,Poor,Economy
+Nike,Green,623,M,Cotton,Minor,Poor,Premium
+Nike,White,1580,XL,Blend,Minor,Poor,Premium
+Adidas,White,2468,L,Blend,Major,Good,Standard
+Nike,Green,1037,M,Cotton,Major,Excellent,Standard
+Nike,Black,685,XL,Linen,Major,Poor,Standard
+US Polo,Red,2171,M,Cotton,Major,Excellent,Standard
+Puma,White,603,M,Polyester,Major,Poor,Standard
+Nike,Green,1887,XL,Cotton,None,Good,Standard
+Nike,Green,864,XL,Linen,Minor,Poor,Standard
+Nike,Green,2209,M,Polyester,Minor,Average,Premium
+Nike,Blue,2144,L,Cotton,Major,Excellent,Premium
+Adidas,White,1377,XL,Blend,Minor,Excellent,Standard
+Puma,Blue,1039,L,Linen,Minor,Good,Premium
+Puma,Black,1127,L,Cotton,Major,Average,Standard
+Puma,White,1233,L,Polyester,None,Poor,Standard
+Puma,Black,1922,XL,Cotton,None,Poor,Standard
+US Polo,Black,972,XL,Blend,Minor,Excellent,Economy
+Levis,Blue,1517,L,Linen,Minor,Good,Standard
+Adidas,Red,1746,L,Blend,Minor,Excellent,Economy
+Puma,Red,1945,L,Polyester,Major,Good,Standard
+Puma,Green,1584,S,Polyester,None,Average,Standard
+Levis,Red,452,XL,Cotton,Major,Good,Premium
+Adidas,Green,1623,L,Linen,Major,Good,Standard
+Levis,Black,1979,S,Polyester,Major,Poor,Premium
+Levis,Green,2021,XL,Cotton,Major,Poor,Standard
+Puma,White,2425,M,Blend,Minor,Average,Premium
+Puma,Green,2303,M,Polyester,None,Excellent,Economy
+Puma,Green,1097,S,Linen,None,Good,Standard
+Adidas,Green,365,S,Polyester,Major,Poor,Economy
+US Polo,Green,1995,L,Blend,None,Good,Premium
+Nike,Blue,2383,XL,Blend,None,Average,Premium
+Puma,Blue,383,L,Cotton,Major,Poor,Standard
+Puma,Blue,1319,M,Polyester,None,Poor,Premium
+Levis,Red,2369,L,Blend,None,Excellent,Economy
+Puma,Green,1359,S,Polyester,Major,Good,Economy
+Nike,Blue,1582,L,Linen,None,Excellent,Premium
+Nike,Black,2192,M,Linen,Major,Average,Premium
+Adidas,White,1943,S,Linen,None,Excellent,Economy
+Levis,Black,1779,M,Blend,None,Good,Premium
+Levis,Red,414,M,Cotton,Major,Good,Premium
+Levis,Red,1604,XL,Cotton,None,Good,Standard
+Nike,Black,307,L,Cotton,Minor,Poor,Economy
+US Polo,White,630,L,Polyester,None,Good,Premium
+US Polo,Black,1444,M,Cotton,Major,Good,Economy
+Puma,White,2256,S,Cotton,Major,Excellent,Premium
+Nike,White,1218,M,Linen,Minor,Average,Premium
+Nike,Blue,2345,XL,Linen,Minor,Average,Standard
+Puma,Blue,1591,S,Polyester,Minor,Poor,Standard
+Nike,White,600,XL,Polyester,Major,Excellent,Standard
+US Polo,White,1584,L,Linen,Minor,Good,Standard
+Adidas,Red,980,S,Linen,None,Good,Standard
+Nike,White,950,XL,Blend,Major,Poor,Premium
+Adidas,Red,1218,XL,Blend,Major,Average,Economy
+Levis,Black,1620,M,Cotton,None,Average,Standard
+Puma,Green,1419,M,Blend,Major,Poor,Premium
+Nike,Black,1987,S,Linen,Major,Average,Premium
+Adidas,Black,373,M,Blend,Major,Good,Premium
+Adidas,Green,1533,S,Cotton,Minor,Good,Premium
+Adidas,Red,325,S,Linen,Major,Excellent,Premium
+Adidas,Green,2355,S,Polyester,None,Poor,Standard
+Levis,Red,958,L,Polyester,None,Good,Standard
+Adidas,White,2243,S,Linen,Minor,Average,Economy
+US Polo,Black,1528,L,Polyester,Minor,Poor,Premium
+Puma,White,2115,S,Polyester,Minor,Excellent,Premium
+Levis,White,366,L,Polyester,Major,Good,Standard
+US Polo,Red,2315,XL,Blend,None,Poor,Premium
+Nike,Red,999,M,Polyester,Minor,Average,Premium
+Adidas,White,533,S,Linen,None,Good,Economy
+Nike,Green,938,XL,Polyester,Major,Excellent,Standard
+Adidas,Red,1607,M,Linen,Major,Good,Standard
+Nike,Blue,1870,XL,Polyester,None,Average,Economy
+Levis,White,1611,L,Cotton,None,Good,Premium
+US Polo,Blue,1979,XL,Cotton,Major,Good,Standard
+US Polo,White,1104,S,Cotton,None,Good,Standard
+US Polo,White,962,L,Linen,None,Good,Economy
+Levis,Black,2265,XL,Cotton,Minor,Average,Economy
+Nike,Black,1589,XL,Blend,None,Poor,Standard
