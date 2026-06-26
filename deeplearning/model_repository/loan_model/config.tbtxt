@@ -1,0 +1,20 @@
+name: "loan_model"
+platform: "onnxruntime_onnx"
+
+max_batch_size: 8
+
+input [
+  {
+    name: "loan_raw_input"
+    data_type: TYPE_FP32
+    dims: [3]
+  }
+]
+
+output [
+  {
+    name: "loan_output"
+    data_type: TYPE_FP32
+    dims: [1]
+  }
+]

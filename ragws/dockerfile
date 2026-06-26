@@ -1,0 +1,17 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Copy project files
+COPY pyproject.toml .
+COPY src ./src
+
+# Install project dependencies
+RUN python -m pip install --upgrade pip setuptools wheel && \
+    pip install --no-cache-dir .
+
+# FastAPI port
+EXPOSE 8000
+
+# Start FastAPI
+CMD ["python", "-m", "uvicorn", "ragapp.utils.api.prompt_api:app", "--host", "0.0.0.0", "--port", "8000"]

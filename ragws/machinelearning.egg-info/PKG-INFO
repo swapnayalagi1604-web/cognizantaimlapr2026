@@ -1,0 +1,66 @@
+Metadata-Version: 2.4
+Name: machinelearning
+Version: 0.1.0
+Summary: Supervised and unsupervised ML algorithm practice
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.26
+Requires-Dist: pandas>=2.2
+Requires-Dist: scipy>=1.13
+Requires-Dist: scikit-learn>=1.5
+Requires-Dist: xgboost>=2.0
+Requires-Dist: lightgbm>=4.3
+Requires-Dist: matplotlib>=3.9
+Requires-Dist: seaborn>=0.13
+Requires-Dist: plotly>=5.22
+Requires-Dist: jupyterlab>=4.2
+Requires-Dist: ipywidgets>=8.1
+Requires-Dist: tqdm>=4.66
+Requires-Dist: joblib>=1.4
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: onnx>=1.14
+Requires-Dist: onnxruntime>=1.17
+Requires-Dist: skl2onnx>=1.14
+Requires-Dist: tensorflow>=2.21.0
+Requires-Dist: keras>=2.21.0
+Requires-Dist: mlflow>=2.3
+Requires-Dist: tf2onnx>=1.14
+Requires-Dist: nltk>=3.9
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: wordcloud
+Requires-Dist: spacy
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: requests
+Requires-Dist: stanford-corenlp
+Requires-Dist: bertviz
+Requires-Dist: tiktoken
+Requires-Dist: anthropic
+Requires-Dist: openai
+Requires-Dist: sentence-transformers
+Requires-Dist: langchain>=1.0.3
+Requires-Dist: langchain-core>=1.0.3
+Requires-Dist: langchain-classic>=1.0.3
+Requires-Dist: langchain-community>=0.4.0
+Requires-Dist: langchain-openai>=1.0.1
+Requires-Dist: openai>=1.90.0
+Requires-Dist: chromadb
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf
+Requires-Dist: docx2txt
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-huggingface
+Requires-Dist: langchain-chroma
+Requires-Dist: torchvision
+Requires-Dist: sentence-transformers
+Requires-Dist: better-profanity
+Requires-Dist: azure.identity
+Provides-Extra: nlp
+Requires-Dist: nltk>=3.9; extra == "nlp"
+Requires-Dist: gensim>=4.3; extra == "nlp"
+Provides-Extra: dev
+Requires-Dist: pytest>=8.2; extra == "dev"
+Requires-Dist: black>=24.4; extra == "dev"
+Requires-Dist: ruff>=0.4; extra == "dev"
+Requires-Dist: mypy>=1.10; extra == "dev"

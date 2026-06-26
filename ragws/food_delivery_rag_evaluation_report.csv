@@ -1,0 +1,10 @@
+question,expected_answer,actual_answer,retrieved_context,accuracy_score,hallucination_score,latency_seconds
+What is the purpose of the Food Delivery App Customer Support Policy?,"The purpose is to define how customer issues, complaints, inquiries, and feedback are handled, with the objective of providing timely, professional, and effective assistance to customers, restaurant partners, and delivery personnel.","The purpose of the Food Delivery App Customer Support Policy is to define how customer issues, complaints, inquiries, and feedback are handled within the Food Delivery Application. The objective is to provide timely, professional, and effective assistance to customers, restaurant partners, and delivery personnel.",,0,1,17.77
+Which support channels are available to customers?,"Customers can contact support through in-app chat support, email support, Help Center/FAQ, contact form, and phone support if available.","Customers can contact support through the following channels:
+- In-App Chat Support
+- Email Support
+- Help Center / FAQ
+- Contact Form
+- Phone Support (if available)",,0,1,9.45
+What is the availability of in-app chat support?,In-app chat support is available 24/7.,In-App Chat Support is available 24/7.,,1,0,8.88
+What is the availability of email support?,Email support is available 24/7.,Email Support is available 24/7.,,1,0,8.84

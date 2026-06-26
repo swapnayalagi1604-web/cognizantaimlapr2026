@@ -1,0 +1,66 @@
+[project]
+name = "machinelearning"
+version = "0.1.0"
+description = "Supervised and unsupervised ML algorithm practice"
+requires-python = ">=3.10"
+dependencies = [
+    # Core scientific stack
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "scipy>=1.13",
+
+    # ML framework
+    "scikit-learn>=1.5",
+
+   
+    # Visualization
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+    "plotly>=5.22",
+
+    
+
+    # Utilities
+    "tqdm>=4.66",
+   
+    "python-dotenv>=1.0",
+    
+    "skl2onnx>=1.14",
+  
+    
+    
+    "nltk>=3.9",
+    "requests",
+     "beautifulsoup4",
+     "wordcloud",
+     "spacy",
+     "transformers",
+     "torch",
+     "stanford-corenlp",
+     "bertopic",
+     "anthropic",
+     "openai",
+     "google-genai"
+     
+    
+]
+
+[project.optional-dependencies]
+nlp = ["nltk>=3.9", "gensim>=4.3"]
+dev = [
+    "pytest>=8.2",
+    "black>=24.4",
+    "ruff>=0.4",
+    "mypy>=1.10",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.black]
+line-length = 100
+target-version = ["py310", "py311", "py312"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

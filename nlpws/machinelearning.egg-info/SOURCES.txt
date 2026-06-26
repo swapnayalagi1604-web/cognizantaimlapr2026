@@ -1,0 +1,8 @@
+pyproject.toml
+machinelearning.egg-info/PKG-INFO
+machinelearning.egg-info/SOURCES.txt
+machinelearning.egg-info/dependency_links.txt
+machinelearning.egg-info/requires.txt
+machinelearning.egg-info/top_level.txt
+nlpenv/Scripts/pywin32_postinstall.py
+nlpenv/Scripts/pywin32_testall.py

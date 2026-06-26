@@ -1,0 +1,19 @@
+Leave Policy:
+Employees are eligible for 12 casual leaves per year.
+Sick leave is 10 days per year.
+Leave requests must be submitted at least 3 working days in advance.
+
+Work From Home Policy:
+Employees may work from home up to 2 days per week with manager approval.
+
+Probation Policy:
+New employees have a probation period of 6 months.
+Confirmation depends on performance review.
+
+Notice Period Policy:
+Employees must serve 60 days notice after resignation.
+Buyout option depends on management approval.
+
+Code of Conduct:
+Employees must maintain confidentiality of company data.
+Harassment, discrimination, and data leakage are strictly prohibited.
